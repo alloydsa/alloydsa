@@ -1,6 +1,18 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Go+Developer+%26+Cloud+Architect;Open+Source+Contributor;Kubernetes+%26+Container+Expert;Backend+Systems+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https## 🎯 **Featured Projects**
+
+### 🚀 [Trident Storage Orchestrator - NetApp](https://github.com/NetApp/trident)
+**Kubernetes Storage Orchestrator | Core Contributor**
+![Trident](https://img.shields.io/badge/NetApp-Trident-blue?style=for-the-badge&logo=kubernetes)
+[![Commits](https://img.shields.io/badge/Commits-20-brightgreen?style=for-the-badge)](https://github.com/NetApp/trident/commits?author=alloydsa)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/NetApp/trident)
+
+- **20+ commits** to enterprise storage orchestration for Kubernetes
+- Implementing secure SMB protocols, GCNV zonal pools, and volume management
+- Contributing to one of the leading storage solutions in the cloud-native ecosystem
+- **🔗 [View All My Contributions](https://github.com/NetApp/trident/commits?author=alloydsa)**
+- Technologies: Go, Kubernetes, Container orchestration, Storage systems-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Go+Developer+%26+Cloud+Architect;Open+Source+Contributor;Kubernetes+%26+Container+Expert;Backend+Systems+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -43,7 +55,34 @@ I'm a passionate Go developer and cloud architect who specializes in building sc
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## 🏆 GitHub Achievements
+## � **Open Source Contributions**
+
+<table>
+<tr>
+<td>
+
+### NetApp Trident Storage Orchestrator
+[![Commits](https://img.shields.io/badge/🚀_Commits-20-brightgreen?style=for-the-badge)](https://github.com/NetApp/trident/commits?author=alloydsa)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/NetApp/trident)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/NetApp/trident)
+
+**🎯 Core Contributor** to enterprise Kubernetes storage orchestration
+
+🔥 **Recent Impact:**
+- 🔐 **Secure SMB Implementation** for Ontap-Nas
+- ☁️ **GCNV Zonal Pool Support** for Google Cloud  
+- 📂 **Volume Import/Clone** improvements
+- 🛡️ **Enterprise Security** enhancements
+
+**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
+
+🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**
+
+</td>
+</tr>
+</table>
+
+## �🏆 GitHub Achievements
 
 - 🦈 **Pull Shark x2** - Made multiple high-quality pull requests
 - 👥 **Pair Extraordinaire** - Excellent collaboration skills
