@@ -5,9 +5,32 @@
 ### 🔱 [Trident Storage Orchestrator](https://github.com/alloydsa/trident)
 **Major Contribution to NetApp's Enterprise Open Source Project**
 - Actively contributing to enterprise-grade storage orchestration for Kubernetes
+- **10+ significant commits** including secure SMB implementation, GCNV support, and volume management
 - Working on Go microservices for container storage provisioning and management
 - Contributing to one of the leading storage solutions in the cloud-native ecosystem
 - Technologies: Go, Kubernetes, Container orchestration, Storage systems
+
+### 📸 [Pennixon - Photography Gallery](https://github.com/alloydsa/Pennixon)
+**Beautiful Mobile Photography Website**
+- Stunning photography gallery featuring Flora, Nature/Sparkles, and Quotes
+- Mobile-responsive design with download functionality
+- Clean, modern UI with category-based organization
+- **Live Demo**: [View Site](https://alloydsa.github.io/Pennixon/)
+- Technologies: HTML5, CSS3, JavaScript, Responsive Design
+
+### 🌊 [D-Alert: Flood Rescue Management System](https://github.com/alloydsa/flood-rescue-system)
+**eYantra Innovation Challenge Project**
+- Built a comprehensive flood rescue management system using Python
+- Implemented real-time alert systems and resource coordination
+- IoT integration for emergency response protocols
+- Technologies: Python, IoT integration, Emergency response protocols
+
+### 🎮 [GPU Stress Testing Application](https://github.com/alloydsa/gpu-stress-app)
+**High-Performance Computing Tool**
+- Developed a high-performance GPU stress testing tool
+- Optimized for parallel processing and performance benchmarking
+- System performance analysis and optimization
+- Technologies: Python, GPU computing, Performance optimization
 
 ### ☕ [Java Learning Journey](https://github.com/alloydsa/java-learning-journey)
 **Comprehensive Java Programming Repository**
@@ -16,25 +39,8 @@
 - Structured learning path for Java development
 - Technologies: Java, Object-oriented Programming, Database connectivity
 
-### 📸 [Pennixon - Photography Gallery](https://github.com/alloydsa/Pennixon)
-**Beautiful Mobile Photography Website**
-- Stunning photography gallery featuring Flora, Nature/Sparkles, and Quotes
-- Mobile-responsive design with download functionality
-- Clean, modern UI with category-based organization
-- Technologies: HTML5, CSS3, JavaScript, Responsive Design
-
-### 🌊 [D-Alert: Flood Rescue Management System](https://github.com/alloydsa/flood-rescue-system)
-**eYantra Innovation Challenge Project**
-- Built a comprehensive flood rescue management system using Python
-- Implemented real-time alert systems and resource coordination
-- Technologies: Python, IoT integration, Emergency response protocols
-
-### 🎮 [GPU Stress Testing Application](https://github.com/alloydsa/gpu-stress-app)
-- Developed a high-performance GPU stress testing tool
-- Optimized for parallel processing and performance benchmarking
-- Technologies: Python, GPU computing, Performance optimization
-
 ### 🏗️ [Low-Level Design Patterns](https://github.com/alloydsa/Low-Level-Design-Patterns)
+**Software Architecture & Design Patterns**
 - Comprehensive collection of C++ design pattern implementations
 - Covers Creational, Structural, and Behavioral patterns
 - Features detailed documentation and practical examples
