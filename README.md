@@ -1,6 +1,8 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https:**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
+
+🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -50,9 +52,10 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 <td>
 
 ### NetApp Trident Storage Orchestrator
-[![Commits](https://img.shields.io/badge/🚀_Commits-20-brightgreen?style=for-the-badge)](https://github.com/NetApp/trident/commits?author=alloydsa)
+[![Commits](https://img.shields.io/badge/🚀_Commits-20+-brightgreen?style=for-the-badge)](https://github.com/NetApp/trident/commits?author=alloydsa)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/NetApp/trident)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/NetApp/trident)
+[![Stars](https://img.shields.io/github/stars/NetApp/trident?style=for-the-badge&logo=github&color=yellow&label=⭐)](https://github.com/NetApp/trident)
 
 **🎯 Core Contributor** to enterprise Kubernetes storage orchestration
 
@@ -137,11 +140,11 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 ### 🚀 Open Source Impact Summary
 <div align="center">
 
-| 📊 **Metric** | 🔢 **Count** | 📂 **Repository** |
-|---------------|--------------|-------------------|
+| 📊 **Metric** | 🔢 **Real-time Count** | 📂 **Repository** |
+|---------------|------------------------|-------------------|
 | **Trident Commits** | **20+** | [NetApp/trident](https://github.com/NetApp/trident/commits?author=alloydsa) |
+| **Repository Stars** | ![Stars](https://img.shields.io/github/stars/NetApp/trident?style=flat-square&logo=github&color=yellow) | [NetApp/trident](https://github.com/NetApp/trident) |
 | **Total Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/alloydsa&style=flat-square&logo=github) | [GitHub Profile](https://github.com/alloydsa) |
-| **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=green&label=&query=$.totalCommits&url=https://api.github-contributions-api.jogruber.de/v4/alloydsa&style=flat-square&logo=git) | All Repositories |
 | **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=alloydsa&style=flat-square&color=brightgreen) | This Profile |
 
 </div>
