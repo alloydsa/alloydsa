@@ -125,11 +125,10 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 - Optimized for testing graphics cards under various computational loads
 - Technologies: Python, GPU computing, Performance monitoring
 
-## 📊 Comprehensive GitHub Analytics
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=alloydsa"/>
 </div>
 
 <div align="center">
@@ -138,21 +137,6 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
-</div>
-
-### 📈 Detailed Contribution Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alloydsa&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Top Languages by Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Repos per Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ### 🚀 Open Source Impact Summary
