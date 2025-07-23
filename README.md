@@ -129,6 +129,7 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=alloydsa"/>
 </div>
 
 <div align="center">
