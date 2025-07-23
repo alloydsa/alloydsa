@@ -64,7 +64,12 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 **📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
 
-🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**
+� **Real-time Contribution Stats:**
+- **Total Commits:** ![Trident Commits](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=$.length&url=https://api.github.com/repos/NetApp/trident/commits?author=alloydsa&style=flat-square&logo=git&suffix=%20commits)
+- **Repository Stars:** ![Stars](https://img.shields.io/github/stars/NetApp/trident?style=flat-square&logo=github&color=yellow)
+- **Impact:** ![Lines](https://img.shields.io/badge/Impact-Enterprise%20Storage-blue?style=flat-square&logo=kubernetes)
+
+�🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**
 
 </td>
 </tr>
@@ -112,15 +117,44 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 - Optimized for testing graphics cards under various computational loads
 - Technologies: Python, GPU computing, Performance monitoring
 
-## 📊 GitHub Stats
+## 📊 Comprehensive GitHub Stats & Contributions
 
+### 🏆 Overall GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=alloydsa"/>
+</div>
+
+### 📈 Contribution Analytics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloydsa&theme=tokyonight&hide_border=true" alt="alloydsa" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloydsa&theme=tokyonight" alt="alloydsa" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+### 🚀 Open Source Impact Summary
+<div align="center">
+
+| 📊 **Metric** | 🔢 **Count** | 📂 **Repository** |
+|---------------|--------------|-------------------|
+| **Trident Commits** | **20+** | [NetApp/trident](https://github.com/NetApp/trident/commits?author=alloydsa) |
+| **Total Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/alloydsa&style=flat-square&logo=github) | [GitHub Profile](https://github.com/alloydsa) |
+| **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=green&label=&query=$.totalCommits&url=https://api.github-contributions-api.jogruber.de/v4/alloydsa&style=flat-square&logo=git) | All Repositories |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=alloydsa&style=flat-square&color=brightgreen) | This Profile |
+
+</div>
+
+### 💻 Language Distribution & Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Languages by Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ## 🏃‍♂️ When I'm Not Coding
