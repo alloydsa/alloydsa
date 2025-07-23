@@ -52,7 +52,6 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 <td>
 
 ### NetApp Trident Storage Orchestrator
-[![Commits](https://img.shields.io/badge/🚀_Commits-20+-brightgreen?style=for-the-badge)](https://github.com/NetApp/trident/commits?author=alloydsa)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/NetApp/trident)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/NetApp/trident)
 [![Stars](https://img.shields.io/github/stars/NetApp/trident?style=for-the-badge&logo=github&color=yellow&label=⭐)](https://github.com/NetApp/trident)
@@ -120,21 +119,19 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 - Optimized for testing graphics cards under various computational loads
 - Technologies: Python, GPU computing, Performance monitoring
 
-## 📊 Comprehensive GitHub Stats & Contributions
+## 📊 GitHub Stats & Contributions
 
-### 🏆 Overall GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=alloydsa"/>
-</div>
-
-### 📈 Contribution Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloydsa&theme=tokyonight&hide_border=true" alt="alloydsa" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=alloydsa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=alloydsa&custom_title=Most%20Used%20Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloydsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
 </div>
 
 ### 🚀 Open Source Impact Summary
@@ -142,22 +139,9 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 | 📊 **Metric** | 🔢 **Real-time Count** | 📂 **Repository** |
 |---------------|------------------------|-------------------|
-| **Trident Commits** | **20+** | [NetApp/trident](https://github.com/NetApp/trident/commits?author=alloydsa) |
-| **Repository Stars** | ![Stars](https://img.shields.io/github/stars/NetApp/trident?style=flat-square&logo=github&color=yellow) | [NetApp/trident](https://github.com/NetApp/trident) |
 | **Total Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/alloydsa&style=flat-square&logo=github) | [GitHub Profile](https://github.com/alloydsa) |
 | **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=alloydsa&style=flat-square&color=brightgreen) | This Profile |
 
-</div>
-
-### 💻 Language Distribution & Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Languages by Commits" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ## 🏃‍♂️ When I'm Not Coding
