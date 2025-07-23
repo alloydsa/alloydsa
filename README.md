@@ -1,6 +1,11 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https:**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
+[![Typing SVG](https:- 📂 **Volume Import/Clone** improvements
+- 🛡️ **Enterprise Security** enhancements
+
+**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
+
+🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)** Since:** May 2024 | **⚡ Latest:** June 2025
 
 🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -52,6 +57,7 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 <td>
 
 ### NetApp Trident Storage Orchestrator
+[![Commits](https://img.shields.io/badge/🚀%20Trident%20Commits-20+-brightgreen?style=for-the-badge&logo=git)](https://github.com/NetApp/trident/commits?author=alloydsa)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/NetApp/trident)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/NetApp/trident)
 [![Stars](https://img.shields.io/github/stars/NetApp/trident?style=for-the-badge&logo=github&color=yellow&label=⭐)](https://github.com/NetApp/trident)
