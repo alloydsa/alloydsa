@@ -1,6 +1,6 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://github.com/alloydsa)
 
 ## 🚀 About Me
 
