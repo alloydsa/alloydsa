@@ -1,13 +1,6 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https:/**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
-
-📊 **Real-time Contribution Stats:**
-- **Total Commits:** ![Trident Commits](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=$.length&url=https://api.github.com/repos/NetApp/trident/commits?author=alloydsa&style=flat-square&logo=git&suffix=%20commits)
-- **Repository Stars:** ![Stars](https://img.shields.io/github/stars/NetApp/trident?style=flat-square&logo=github&color=yellow)
-- **Impact:** ![Lines](https://img.shields.io/badge/Impact-Enterprise%20Storage-blue?style=flat-square&logo=kubernetes)
-
-🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -72,12 +65,12 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 **📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
 
-� **Real-time Contribution Stats:**
+📊 **Real-time Contribution Stats:**
 - **Total Commits:** ![Trident Commits](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=$.length&url=https://api.github.com/repos/NetApp/trident/commits?author=alloydsa&style=flat-square&logo=git&suffix=%20commits)
 - **Repository Stars:** ![Stars](https://img.shields.io/github/stars/NetApp/trident?style=flat-square&logo=github&color=yellow)
 - **Impact:** ![Lines](https://img.shields.io/badge/Impact-Enterprise%20Storage-blue?style=flat-square&logo=kubernetes)
 
-�🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**
+🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**
 
 </td>
 </tr>
