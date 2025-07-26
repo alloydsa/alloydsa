@@ -1,13 +1,6 @@
 # Hi there, I'm Alloyd Savio Mendonca! 👋
 
-[![Typing SVG](https:- 📂 **Volume Import/Clone** improvements
-- 🛡️ **Enterprise Security** enhancements
-
-**📈 Active Since:** May 2024 | **⚡ Latest:** June 2025
-
-🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)** Since:** May 2024 | **⚡ Latest:** June 2025
-
-🔗 **[View All Contributions →](https://github.com/NetApp/trident/commits?author=alloydsa)**-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Software+Development+Engineer;Go+Developer+%26+Open+Source+Contributor;Kubernetes+%26+Container+Expert;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
