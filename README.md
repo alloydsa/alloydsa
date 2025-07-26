@@ -139,7 +139,7 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Repos per Language" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloydsa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=320" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Commits per Language" />
 </div>
 
 <div align="center">
