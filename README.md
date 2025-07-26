@@ -144,12 +144,27 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=alloydsa&theme=tokyonight" alt="Commits per Language" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=alloydsa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Alternative" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="GitHub Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+### 🐹 Go Development Expertise
+<div align="center">
+
+| 🔧 **Go Projects & Contributions** | 📊 **Impact** |
+|-------------------------------------|---------------|
+| **NetApp Trident (Go)** | ![Trident Commits](https://img.shields.io/badge/20%2B%20commits-Enterprise%20Storage-00ADD8?style=flat-square&logo=go) |
+| **Kubernetes Storage** | ![K8s](https://img.shields.io/badge/Core%20Contributor-Storage%20Orchestration-326CE5?style=flat-square&logo=kubernetes) |
+| **Cloud Native** | ![Cloud](https://img.shields.io/badge/Go%20Microservices-Backend%20Systems-4285F4?style=flat-square&logo=googlecloud) |
+
 </div>
 
 ### 🚀 Open Source Impact Summary
