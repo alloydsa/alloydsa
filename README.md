@@ -130,17 +130,22 @@ I'm a passionate Backend Software Development Engineer specializing in Go develo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alloydsa&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Activity" />
 </div>
 
 ### 📈 Detailed Contribution Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alloydsa&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alloydsa&theme=tokyonight&hide_border=true" alt="Coding Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alloydsa&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alloydsa&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alloydsa&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alloydsa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ### 🚀 Open Source Impact Summary
